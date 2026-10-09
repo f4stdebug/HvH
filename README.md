@@ -2,6 +2,8 @@
 
 Все скрипты в этом репозитории я лично деобфусцировал и привёл к читаемому виду — код понятен и готов к дальнейшему дописыванию. Проекты: **Fatality** и **Gamesense**.
 
+Исходники — 2023–2025 годов. `gamesense/!!!!!!!!!!!!!!!!!!!!!!!!!!!!!emberlashdevirtualized.lua` — последняя версия (октябрь 2026).
+
 [![English](https://img.shields.io/badge/lang-English-blue?style=flat-square)](README_EN.md)
 
 ---

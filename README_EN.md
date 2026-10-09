@@ -2,6 +2,8 @@
 
 All scripts in this repository were personally deobfuscated by me and turned into clean, readable code, ready to be extended. Projects: **Fatality** and **Gamesense**.
 
+Sources date back to 2023–2025. `gamesense/!!!!!!!!!!!!!!!!!!!!!!!!!!!!!emberlashdevirtualized.lua` is the latest version (October 2026).
+
 [![Русский](https://img.shields.io/badge/lang-Русский-blue?style=flat-square)](README.md)
 
 ---
